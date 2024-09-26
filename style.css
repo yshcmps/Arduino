@@ -1,0 +1,30 @@
+body{
+    background-color: #81c7c1;
+    color: white;
+    text-align: center;
+}
+
+#rosa{
+    width: 600px;
+    height: 400px;
+}
+
+#vermelho{
+    width: 500px;
+    height: 300px;
+}
+
+#verde{
+    width: 500px;
+    height: 300px;
+}
+
+#roxo{
+    width: 500px;
+    height: 500px;
+}
+
+#preto{
+    width: 500px;
+    height: 500px;
+}
